@@ -1,4 +1,4 @@
-# Aditya360 Agent — Student Login + Agentic AI
+# Basic AI Agent — Student Login + Agentic AI
 
 ## Setup
 ```powershell
